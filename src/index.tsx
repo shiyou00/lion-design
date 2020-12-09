@@ -6,7 +6,11 @@ import Button from "./components/Button";
 
 ReactDOM.render(
   <React.StrictMode>
-    <Button />
+    <>
+      <Button>default btn</Button>
+      <Button btnType="primary">确定</Button>
+      <Button disabled>禁用</Button>
+    </>
   </React.StrictMode>,
   document.getElementById('root')
 );

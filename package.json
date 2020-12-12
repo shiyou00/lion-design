@@ -7,7 +7,7 @@
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
   "license": "MIT",
-  "homepage": "https://github.com/shiyou00/lion-design",
+  "homepage": "https://shiyou00.github.io/lion-design/?path=/story/example-introduction--page",
   "repository": {
     "type": "git",
     "url": "https://github.com/shiyou00/lion-design"
